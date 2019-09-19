@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Armalite Rifle';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Armalite Rifle'), url('armalite_rifle.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Armalite Rifle';
+	font-weight: 500;
+	color: #0ccac4;
+}
